@@ -70,7 +70,7 @@ Option to restart the game
 
 Responsive design for optimal experience on all devices
 
-Simple and intuitive user interface.
+Simple and intuitive user interface.  ( file :- task3.html, styles.css, script1.js)
 
 # Weather Application
 Prodigy InfoTech Internship Task 5: Weather Application
@@ -94,4 +94,4 @@ Dynamic background or visuals based on weather/location
 
 Search bar with button and enter-key functionality
 
-Responsive and user-friendly interface for all devices.
+Responsive and user-friendly interface for all devices. ( file :- index.html, script.js, test-api.js, package.json, package-lock.json)
