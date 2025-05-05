@@ -16,7 +16,7 @@ Responsive design for optimal viewing on all screen sizes
 
 Interactive elements for enhanced user experience
 
-Semantic and accessible HTML structure.
+Semantic and accessible HTML structure. ( file :- landing page.html)
 
 # StopWatch Web Application
 
@@ -41,7 +41,7 @@ Responsive design for seamless use on desktop, tablet, and mobile devices
 
 (Optional) Lap time recording and display for advanced functionality
 
-Modern and user-friendly UI.
+Modern and user-friendly UI. ( file:- task2.html, bg1.jpg)
 
 # Tic-Tac-Toe Web Application
 
